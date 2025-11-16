@@ -1,0 +1,5 @@
+{
+  "name": "AAVS - Slide Deck",
+  "description": "An interactive, web-based slide presentation for an 'Android Application Vulnerability Scanner' project. This application provides a modern, visually engaging slideshow navigable via keyboard arrows and the spacebar, showcasing the project's objectives, workflow, and results with a focus on clear diagrams and concise text.",
+  "requestFramePermissions": []
+}
